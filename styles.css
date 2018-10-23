@@ -2,3 +2,7 @@ body {
     color: green;
     padding: 1em;
 }
+
+p {
+    color:red;
+}
