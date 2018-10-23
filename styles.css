@@ -3,6 +3,7 @@ body {
     padding: 1em;
 }
 
-p {
+p>a {
     color:red;
+    text-decoration: none;
 }
